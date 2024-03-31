@@ -1,0 +1,24 @@
+
+import 'dart:ui';
+
+/// Preferences
+const String SERVER_TYPE_PREF = "SERVER_TYPE_PREF";
+const String LOCALE_PREF = "LOCALE_PREF";
+const String ACCESS_TOKEN_PREF = "ACCESS_TOKEN_PREF";
+const String REFRESH_TOKEN_PREF = "REFRESH_TOKEN_PREF";
+const String THEME_IS_LIGHT_PREF = "THEME_IS_LIGHT_PREF";
+const String CONTRAGENTS_PREF = "CONTRAGENTS_PREF";
+const String CURRENT_PROFILE_PREF = "CURRENT_PROFILE_PREF";
+const String BANKS_MFO_PREF = "BANKS_MFO_PREF";
+const String ONBOARDING_SEEN_PREF = "ONBOARDING_SEEN_PREF";
+const String IS_SIGNED_DOCUMENT_PREF = "IS_SIGNED_DOCUMENT_PREF";
+const String SIGNED_TIMESTAMP_DOCUMENT_PREF = "SIGNED_TIMESTAMP_DOCUMENT_PREF";
+const String SIGNED_DOCUMENT_ID_PREF = "SIGNED_DOCUMENT_ID_PREF";
+
+//colors
+const primaryColor = Color(0xFF2697FF);
+const secondaryColor = Color(0xFF2A2D3E);
+const bgColor = Color(0xFF212332);
+
+//paddings
+const defaultPadding = 16.0;
